@@ -2,9 +2,9 @@
   Hi there 👋 I'm Swoyam 👨‍💻
 </h1>
 
-<p align='center'>
-  A FrontEnd developer.
-</p>
+<h2 align='center'>
+  A FrontEnd Web Developer.
+</h2>
 
 <p align='center'>
   
