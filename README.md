@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align='center'>
-  A FrontEnd Web Developer.
+  A FrontEnd Web Developer from Nepal.
 </h2>
 
 <p align='center'>
