@@ -2,9 +2,9 @@
   Hi there 👋 I'm Swoyam 👨‍💻
 </h1>
 
-<h2 align='center'>
+<h3 align='center'>
   A FrontEnd Web Developer from Nepal.
-</h2>
+</h3>
 
 <p align='center'>
   
