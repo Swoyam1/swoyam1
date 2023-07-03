@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A Full Stack Web Developer from Nepal.
+  A Full Stack Web Developer residing in India.
 </h3>
 
 <p align='center'>
